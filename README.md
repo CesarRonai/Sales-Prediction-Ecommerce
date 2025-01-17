@@ -32,3 +32,14 @@ LSTM outperforms ARIMA in predicting **e-commerce demand**, especially during **
 - Python (Pandas, NumPy, Matplotlib)
 - TensorFlow/Keras (for LSTM)
 - Statsmodels (for ARIMA)
+## 📂 Project Structure
+- `data/` → Contains all datasets used in this project.
+- `notebooks/` → Jupyter notebooks for data exploration and modeling.
+- `models/` → Trained models (ARIMA, LSTM).
+- `reports/` → Research documents and results.
+- `requirements.txt` → Dependencies required to run the project.
+
+## 🚀 How to Run the Project
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/CesarRonai/Sales-Prediction-Ecommerce.git
